@@ -8,4 +8,5 @@ date: 2014-04-30
 
 * [使用Jekyll搭建自己的blog](http://jmcglone.com/guides/github-pages/)
 
-* 
+* [配置私人域名](https://help.github.com/en/articles/setting-up-a-custom-subdomain) [在repository中修改域名](https://help.github.com/en/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site)
+
