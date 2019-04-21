@@ -5,10 +5,10 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>摸鱼佟富贵</title>
-	<link href="http://tongtie.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://tongtie.github.io/blog"/>
+	<link href="http://tongtie.github.io/atom.xml" rel="self"/>
+	<link href="http://tongtie.github.io"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://tongtie.github.io/blog</id>
+	<id>http://tongtie.github.io</id>
 	<author>
 		<name>佟富贵</name>
 		<email>tie0214@gmail.com</email>
