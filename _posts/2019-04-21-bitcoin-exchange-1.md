@@ -1,18 +1,15 @@
+
+
 ---
 typora-root-url: ../../tongtie.github.io
----
-
-
-
-\---
 
 layout: post
 
-title: "数字币交易教程"
+title: 数字币交易教程
 
 date: 2019-04-21
 
-\---
+---
 
 ### 数字货币交易时间
 
