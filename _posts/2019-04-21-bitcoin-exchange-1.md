@@ -1,10 +1,26 @@
-# 数字货币交易教程
+---
+typora-root-url: ../../tongtie.github.io
+---
+
+
+
+\---
+
+layout: post
+
+title: "数字币交易教程"
+
+date: 2019-04-21
+
+\---
 
 ### 数字货币交易时间
 
 炒股的朋友知道A股的交易时间是非节假日的9:30 ～ 15:00，并且有涨停板限制。
 
 数字货币的交易时间是7*24小时，就是说全年都可以交易，这对一些喜欢高频交易的朋友，是非常有乐趣，只要时间允许，就可以体验交易的刺激和乐趣。
+
+
 
 ### 那么什么是数字货币交易呢
 
@@ -18,7 +34,7 @@
 
 
 
-![bitUniverse](../image/bitUniverse-winner.jpg)
+![bitUniverse](/image/bitUniverse-winner.jpg)
 
 
 
@@ -38,9 +54,9 @@
 
 * 傻瓜化，简单，方便。目前支持支付宝、微信、银行卡转账。(首页就有换币的入口，点击进去就可以交易了。注意单次超过2000人民币就要身份证验证了，主要为了防止洗黑钱等原因吧）
 
-![image-20190421222250049](../image/huobi-index1.png)
+![image-20190421222250049](/image/huobi-index1.png)
 
-![image-20190421222355040](../image/huobi-index2.png)
+![image-20190421222355040](/image/huobi-index2.png)
 
 * 另外一个原因，由于我比较懒。简单对比了下其他的平台，相对来说法币兑换数字币还是比较合适的。转账后，基本几分钟就可以收到对应的数字币，简单好用，还是不错的。
 
@@ -64,19 +80,19 @@
 
 我主要使用了以下三个：
 
-####[币安](https://www.binance.com/?ref=36684733)
+[币安](https://www.binance.com/?ref=36684733)
 
 * 在国内口碑算比较好的
 
 * 手续费0.1%，持有BNB手续费7.5折，折后手续费 0.075%
 
-####[火币国际](https://www.huobi.co/zh-cn/topic/invited/?invite_code=zzkd4)
+[火币国际](https://www.huobi.co/zh-cn/topic/invited/?invite_code=zzkd4)
 
 * 新币种较多，波动大
 
 * 正常手续费0.2%，可以使用火币点卡抵扣手续费，大概能到折后 0.1%以下（在官网买较贵，可以找场外的点卡商人购买，大概能几折买到，找不到的可以联系我）
 
-####[FCoin](https://www.fcoin.com/)
+[FCoin](https://www.fcoin.com/)
 
 * 会返回部分手续费，主板基本都是主流币。
 
