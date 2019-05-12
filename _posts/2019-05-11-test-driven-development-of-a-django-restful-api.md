@@ -1,10 +1,11 @@
 ---
-typora-root-url: ..
 layout: post
 title: Test Driven Development of a Django RESTful API
 date: 2019-05-12
-
+typora-root-url: ..
 ---
+
+
 
 
 
@@ -12,7 +13,8 @@ date: 2019-05-12
 
 > 此文属于翻译文，有修改， 原始链接：https://realpython.com/test-driven-development-of-a-django-restful-api/
 >
-> 如侵权，请联系 tie0214@outlook.com
+
+
 
 
 
@@ -565,7 +567,7 @@ python manage.py check
 
 可以看到如下的页面代表成功了
 
-![1557646017610](image\restful-browsable-api)
+![1557646017610](/image/restful-browsable-api)
 
 
 
